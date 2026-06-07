@@ -1,0 +1,14 @@
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /bin/Debug/net10.0/9. Hafta 3. Proje
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /bin/Debug/net10.0/9. Hafta 3. Proje.deps.json
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /bin/Debug/net10.0/9. Hafta 3. Proje.runtimeconfig.json
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /bin/Debug/net10.0/9. Hafta 3. Proje.dll
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /bin/Debug/net10.0/9. Hafta 3. Proje.pdb
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.AssemblyInfoInputs.cache
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.AssemblyInfo.cs
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.csproj.CoreCompileInputs.cache
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.dll
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/refint/9. Hafta 3. Proje.dll
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.pdb
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/9. Hafta 3. Proje.genruntimeconfig.cache
+/Users/alikoc/Desktop/C# Programlama/Projeler 2/9. Hafta 3. Proje /obj/Debug/net10.0/ref/9. Hafta 3. Proje.dll
